@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TheSecretMessenger</string>
+    <string name="title">The Secret Messenger</string>
+    <string name="message">Type your message here!</string>
+    <string name="button">Send Secret Message</string>
+    <string name="secretMessage">Secret Message</string>
+    <string name="back">Back</string>
+
 </resources>
