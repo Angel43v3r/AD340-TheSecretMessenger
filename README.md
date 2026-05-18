@@ -35,13 +35,13 @@ Make sure you have the following installed:
    In the folder you want to save your project in, run:
 
 ```bash
-git clone git@github.com:Angel43v3r/AD340-TheSecretMessengerApp.git
+git clone git@github.com:Angel43v3r/AD340-TheSecretMessenger.git
 ```
 
 #### 2. Navigate to the app folder:
 
 ```
-cd AD340-TheSecretMessengerApp
+cd AD340-TheSecretMessenger
 ```
 
 #### 3. Navigate to the folder
