@@ -129,4 +129,4 @@ Date: **May 10, 2026** to **May 17, 2026**
 
 ## License
 
-This project is licensed under the MIT License. Please refer to the [LICENSE](https://github.com/Angel43v3r/AD340-TheSecretMessengerApp/blob/main/LICENSE) for more details.
+This project is licensed under the MIT License. Please refer to the [LICENSE](https://github.com/Angel43v3r/AD340-TheSecretMessenger/blob/master/LICENSE) for more details.
